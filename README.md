@@ -6,7 +6,7 @@ In this Cognifyz Internship I have design dashboard comprising seven tasks focus
 
 Tools Used:- 
 
-Excel & Microsoft Power BI
+- Excel & Microsoft Power BI
 
 Insights:-
 - Male Invest more than Female in mutual funds.
