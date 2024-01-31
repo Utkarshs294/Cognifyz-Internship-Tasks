@@ -2,7 +2,7 @@
 
 Objective:- 
 
-In this Cognifyz Internship I have design dashboard comprising seven tasks focusing on Data Exploration, Gender Based, Objective Analysis, Investments Duration & Reasons, Source of Investments & Combined Dashboard.
+In this Cognifyz Internship I have design dashboard comprising seven tasks focusing on Data Exploration, Gender Based, Objective Analysis, Investments Duration & Reasons, Source of Investments & Combining Dashboard.
 
 Tools Used:- 
 
