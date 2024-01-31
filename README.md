@@ -1,14 +1,14 @@
 # Cognifyz-Internship-Tasks
 
-Objective: 
+Objective:- 
 
 In this Cognifyz Internship I have design dashboard comprising seven tasks focusing on Data Exploration, Gender Based, Investments Duration & Reasons, Source of Investments & Combined Dashboard.
 
-Tools Used: 
+Tools Used:- 
 
 Excel & Microsoft Power BI
 
-Insights:
+Insights:-
 - Male Invest more than Female in mutual funds.
 - Retiremnent plan leads with the most of the counts which is more than Education.
 - In the terms of Investments Gold is invested more.
